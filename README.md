@@ -1,3 +1,3 @@
 # harvard-cs50
 
-Projects from taking Harvard's online CS50 course.
+Projects from Harvard's online CS50 course, taken in spring 2018.
